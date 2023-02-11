@@ -1,0 +1,6 @@
+[submodule "tri-nit-23-frontend"]
+	path = tri-nit-23-frontend
+	url = https://github.com/SuhailAhmed2627/tri-nit-23-frontend.git
+[submodule "trinitt_backend"]
+	path = trinitt_backend
+	url = https://github.com/sarvesh-03/trinitt_backend.git
