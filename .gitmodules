@@ -4,3 +4,6 @@
 [submodule "trinitt_backend"]
 	path = trinitt_backend
 	url = https://github.com/sarvesh-03/trinitt_backend.git
+[submodule "trinitt_clustering"]
+	path = trinitt_clustering
+	url = https://github.com/sarvesh-03/trinitt_clustering
